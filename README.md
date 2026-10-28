@@ -1,64 +1,80 @@
-# ⚡ Arnau | Software Developer
+# Hi, I'm Arnau 👋
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;Computer+Science+Student;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..<3">
-  </a>
-</p>
+**Software Developer** · Barcelona, Spain
 
-<!-- Aboyt Me -->
-### 👨‍💻 About Me
-I’m Arnau, a 22-year-old student based in 📍 Barcelona, Spain.  
-I hold a Higher Technician degree in Clinical and Biomedical Laboratory and I’m currently halfway through my Higher Technician degree in Software Development.
+Software development student with hands-on experience in backend, web and desktop applications. I come from the healthcare sector, where I worked as a Clinical and Biomedical Laboratory Technician following strict protocols and international standards. That rigor and attention to detail is what I bring to every line of code.
 
->  📖 I’m currently learning:
-* ☕ Java
-* 🐍 Python
-* 🌐 Javascript
-* 💾 T-SQL
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-<!-- My Skills -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
-> Programming Languages
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-> Web Development
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-> Databses
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- What Im Working On -->
-### 🚀 What I'm working on
-Instead of focusing on a single project, I'm building a solid foundation across different tech stacks:
-
-* 🌱 **Learning Path:** Mastering **Java** (main language) and **Python**, while polishing my web development skills (**HTML, CSS & JavaScript**)
-* ⚙️ **Goal:** Building robust backend logic combined with seamless frontend experiences
-* 💾 **Databases:** Learning how to efficiently manage data using **MySQL**
-* 🌐 **Web Development Projects:** Learning and building web applications with **HTML, CSS, and JavaScript**, focused on responsive and functional interfaces
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- What Im Working On -->
-### 🌟 My Interests
-* 🎨 I enjoy **frontend design** and visually appealing interfaces.
-* 🧩 I love **solving complex programming challenges** and improving my problem-solving skills.
-* 📰 I keep up with **technology news** and emerging trends in software development.
-* 🤖 I’m curious about **AI, automation, and how technology can improve daily life**.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Connect With Me -->
-### 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/arnauformatgergimeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+I'm also passionate about AI, automation and using technology to make everyday life easier. Open to new opportunities.
 
 
 
+👇 Scroll down to see my projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Main stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Testing & Quality**
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-6DA55F?style=for-the-badge)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-D22128?style=for-the-badge)
+
+**Also worked with**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**AI**
+
+Generative AI, AI agents, AI-assisted development and prompt design.
+
+
+
+---
+
+## 🚀 Projects
+
+| Project | Description
+|---|---|
+| [**Biotrack**](https://github.com/arnau-devv/Biotrack) | Management system for biological samples in biobanks. 
+| [**System Agent Core**](https://github.com/arnau-devv/System-Agent-Core) | Desktop voice assistant powered by AI. 
+| [**Health Tracker**](https://github.com/arnau-devv/health-tracker) | Personal wellness tracking application.
+
+*All projects are actively in development.*
+
+## 💡 What I Bring
+
+- 🔬 **Rigor and precision**, shaped by years of working in a regulated laboratory environment.
+- ✅ **Quality-oriented mindset**: unit testing, mocking and code coverage.
+- 🚀 **Builder mindset**: I develop personal projects end-to-end, from database design to a working app, and use AI tools to move faster.
+
+---
+
+## 🌍 Languages
+
+Catalan (native) · Spanish (native) · English (B1–B2)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnauformatgergimeno)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:formatgergimenoarnau@gmail.com)
